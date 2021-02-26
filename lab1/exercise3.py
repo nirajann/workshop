@@ -12,3 +12,5 @@ d = (apple%student)
 print(f"the student got{c}")
 print(f"the remaining apples are {d}")
 
+"""hello mingo"""
+
