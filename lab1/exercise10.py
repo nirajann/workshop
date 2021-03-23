@@ -11,6 +11,4 @@ day = hour // 24
 
 print(f"  {day} days : {hour} hours : {minute} minutes : {seconds} seconds")
 
-"""
-write down the name of your favorite rappper in the town .
-"""
+
